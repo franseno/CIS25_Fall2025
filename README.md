@@ -1,4 +1,4 @@
-# Module 4 Assignment: Debugging and Logic
+# Week 4 Assignment
 
 ## Part 1 – Playlist Menu
 This program displays a simple menu with four options:
